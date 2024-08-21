@@ -15,7 +15,9 @@ The company aims to understand the factors influencing high view counts on their
 </p>
 
 <p align="center">
-  <img src="data yutub.png" alt="InformasiData">
+  
+![data yutub](https://github.com/user-attachments/assets/bbbb17b3-1481-4e5a-b7ba-4b2c7b9e8c34)
+
 </p>
 
 ### Descriptive Statistics
@@ -25,7 +27,9 @@ The company aims to understand the factors influencing high view counts on their
 </p>
 
 <p align="center">
-  <img src="data numerikal.png" alt="DataDeskritiveNumerik">
+  
+![data numerikal](https://github.com/user-attachments/assets/31152b39-f092-42d2-8b7f-01be94ef41d7)
+
 </p>
 
 <br>
@@ -35,7 +39,9 @@ The company aims to understand the factors influencing high view counts on their
 </p> 
 
 <p align="center">
-  <img src="data kategori.png" alt="DataDeskritiveKategori">
+  
+![data kategori](https://github.com/user-attachments/assets/8b6867fc-f7dd-44e9-99f0-47be50b2607a)
+
 </p>
 
 <br>
@@ -51,7 +57,8 @@ The company aims to understand the factors influencing high view counts on their
 ### Univariate Analisis : 
   
 <p align="center">
-  <img src="boxplot.png" alt="DataDeskritiveKategori">
+  
+![boxplot](https://github.com/user-attachments/assets/07c08555-b69c-4ff1-908b-5d83b8ef782d)
 
   Gambar 1 – Boxplot Numerikal 
 </p>
@@ -65,7 +72,9 @@ The company aims to understand the factors influencing high view counts on their
 <br>
 
 <p align="center">
-  <img src="displot.png" alt="DataDeskritiveKategori">
+  
+![displot](https://github.com/user-attachments/assets/db9c6174-d7a1-4c64-8fc9-0c0dae0f647b)
+
   Gambar 2 – Displot Numerikal 
 </p>
 <br>
@@ -79,9 +88,10 @@ The company aims to understand the factors influencing high view counts on their
 
 </p>
 <p align="center">
-   <img src="bivariate.png" alt="DataDeskritiveKategori">
+  
+![bivariate](https://github.com/user-attachments/assets/37e0ef44-ecbe-4adf-831c-3addbd7b46dc)
 
-  Gambar 3 - BIvariate Analisis
+  Gambar 3 - Bivariate Analisis
 </p>
 
 ### Insights: <br>
@@ -92,8 +102,10 @@ The company aims to understand the factors influencing high view counts on their
 
 ### Multivariate Analisis : 
 <p align="center">
-  <img src="multivariate.png" alt="DataDeskritiveKategori">
- 
+  
+![multivariate](https://github.com/user-attachments/assets/da6be4d1-e900-41b4-980c-9a8995455766)
+
+<p>
   Gambar 4 - Multivariate Numerikal
 </p>
 <br>
@@ -108,7 +120,9 @@ The company aims to understand the factors influencing high view counts on their
 1. Duplicate & Missing Value
    
   <p align="center">
-  <img src="duplita null.png" alt="DataDeskritiveKategori">
+    
+  ![duplita null](https://github.com/user-attachments/assets/c97095d8-04f8-43b0-88d6-85c4b6c93137)
+
    </p>
    <p align="center">
      Gambar 5 - Handling duplicate and missing values <br>
@@ -118,7 +132,9 @@ The company aims to understand the factors influencing high view counts on their
 2. Feature Engineering
        
     <p align="center">
-  <img src="jam publish.png" alt="DataDeskritiveKategori">
+    
+  ![jam publish](https://github.com/user-attachments/assets/1a791685-6c9d-4a86-980b-2f35e3c081e8)
+
    </p>
    <p align="center">
      Gambar 6 - Publish Time <br>
@@ -129,7 +145,9 @@ The company aims to understand the factors influencing high view counts on their
 <br>
 
 <p align="center">
-  <img src="day publish.png" alt="DataDeskritiveKategori">
+  
+![day publish](https://github.com/user-attachments/assets/be8ccd82-1184-4649-8737-019114e46287)
+
    </p>
    <p align="center">
      Gambar 7 - Publish Time <br>
@@ -145,7 +163,9 @@ The company aims to understand the factors influencing high view counts on their
 
   <p> 
   <p align="center">
-  <img src="hyperparameter tuning rf.png" alt="DataDeskritiveKategori">
+  
+  ![hyperparameter tuning rf](https://github.com/user-attachments/assets/e1c19552-bd3a-4ced-a1ce-65a4175b5db4)
+
    </p>
    <p align="center">
      Gambar 8 - Hyperparameter Tunning Random Forest with RandomSearchCV <br>
@@ -159,7 +179,9 @@ The company aims to understand the factors influencing high view counts on their
 
   <p> 
   <p align="center">
-  <img src="important.png" alt="DataDeskritiveKategori">
+  
+  ![important](https://github.com/user-attachments/assets/0d757870-158d-4ba3-8009-f2594782068a)
+
    </p>
    <p align="center">
      Gambar 9 - Feature Importances <br>
